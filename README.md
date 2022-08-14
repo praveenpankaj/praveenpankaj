@@ -10,6 +10,11 @@ In 2022, I realized that the only way to scale up :seedling: Natural Farming Tec
 
 I created these repositories [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/praveenpankaj) with the intent that individuals and organizations can reproduce these methods and it gives them a good blue print for starting. I have done many mistakes and experiments in my farm [Roc Tranquil](https://goo.gl/maps/7RHF6dWP6LQtt3hB9) and as a humanity we can learn from each other. We have a very short period of time and in this period, we don't have the luxury of making the same mistakes, especially with Nature. Please feel free to contribute (I can learn from you) or clone the repositories.
 
+1. [Natural Farming](https://github.com/praveenpankaj/Natural-Farming)
+2. [Fluorescence Microscopy](https://github.com/praveenpankaj/Fluorescence-Microscope-PSF)
+3. [Satellite Imaging and ML Tutorial for Beginners](https://github.com/praveenpankaj/ML-For-Satellite-Imaging)
+4. [Spatial-Spectral Classifier for HSI](https://github.com/praveenpankaj/hsi_jstar/)
+
 Wherever possible, I have quoted and referenced the sources. Please email or message me in case you find any unreferenced sources. 
 
 ## Collaboration

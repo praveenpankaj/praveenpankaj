@@ -2,8 +2,6 @@
 
 <img src="https://github.com/praveenpankaj/praveenpankaj/blob/main/images/Earth-Universe.jpg" align="center" width="400">
 
-# Hi, I'm Praveen Pankajakshan  
-
 ## About Me  
 
 I was the Chief Scientist at [Cropin](https://cropin.com), where I led the Cropin AI Labs team. Our focus was on integrating Earth Observations and AI to revolutionize agriculture and promote sustainable land and resource use. Our multidisciplinary team includes Earth observation scientists, data scientists, and agronomists.  

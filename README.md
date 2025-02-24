@@ -8,7 +8,7 @@ I was the Chief Scientist at [Cropin](https://cropin.com), where I led the Cropi
 
 Previously, I led the Data Science and Machine Learning team at Corteva Agriscience (formerly Dow-DuPont Agriculture) in Hyderabad. My experience also includes roles as a Data Analytic Scientist at Shell Technology Center Bangalore and as a Researcher and Technical Manager at Samsung Advanced Institute of Technology (SAIT).  
 
-I currently serve as an adjunct faculty member at [AMMACHI Labs](https://ammachilabs.org) at [Amrita Vishwa Vidyapeetham](https://www.amrita.edu), where I advise and mentor Master's and Ph.D. students. Additionally, I am a Senior Member of the Institute of Electrical and Electronics Engineers (IEEE).  
+I currently serve as an adjunct faculty member at [AMMACHI Labs](https://ammachilabs.org) at [Amrita Vishwa Vidyapeetham](https://www.amrita.edu), where I advise and mentor Master's and Ph.D. students. I am part of the apex committee responsible for setting up the AI Centers of Excellence in India and part of the committee member of the AWS-Harvard Data Science Initiative. This semester (Spring 2025), I am also conducting lectures and tutorials at IIT Ropar for the students who are enrolled in the AI minor program. Additionally, I am a Senior Member of the Institute of Electrical and Electronics Engineers (IEEE).  
 
 My academic background includes a Ph.D. in Control, Signal, and Image Processing from Ariana, a joint research team of INRIA, CNRS, and UNS INRIA; a Master's in Electrical Engineering from Texas A&M University; and a Bachelor's degree in Electrical Engineering from the Indian Institute of Technology (IIT) Roorkee. I was also a contractual researcher during my postdoctoral years at the Pasteur Institute in Paris.  
 

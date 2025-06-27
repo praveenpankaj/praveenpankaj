@@ -4,7 +4,7 @@
 
 ## About Me  
 
-I was the Chief Scientist at [Cropin](https://cropin.com), where I led the Cropin AI Labs team. Our focus was on integrating Earth Observations and AI to revolutionize agriculture and promote sustainable land and resource use. Our multidisciplinary team includes Earth observation scientists, data scientists, and agronomists.  
+I am a farmer and Chief AI Scientist at [UrbanKisaan](https://urbankisaan.com). Earlier, I was the Chief Scientist at [Cropin](https://cropin.com), where I led the Cropin AI Labs team. Our focus was on integrating Earth Observations and AI to revolutionize agriculture and promote sustainable land and resource use. Our multidisciplinary team includes Earth observation scientists, data scientists, and agronomists.  
 
 Previously, I led the Data Science and Machine Learning team at Corteva Agriscience (formerly Dow-DuPont Agriculture) in Hyderabad. My experience also includes roles as a Data Analytic Scientist at Shell Technology Center Bangalore and as a Researcher and Technical Manager at Samsung Advanced Institute of Technology (SAIT).  
 

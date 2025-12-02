@@ -4,13 +4,13 @@
 
 ## About Me  
 
-I am a farmer and Chief AI Scientist at [UrbanKisaan](https://urbankisaan.com). Earlier, I was the Chief Scientist at [Cropin](https://cropin.com), where I led the Cropin AI Labs team. Our focus was on integrating Earth Observations and AI to revolutionize agriculture and promote sustainable land and resource use. Our multidisciplinary team includes Earth observation scientists, data scientists, and agronomists.  
+I am a farmer and Chief AI Scientist at [UrbanKisaan](https://urbankisaan.com). Earlier, I was the Chief Scientist at [Cropin](https://cropin.com), where I led the Cropin AI Labs team. The focus is on integrating Earth Observations and AI to revolutionize agriculture and promote sustainable land and resource use. My multidisciplinary team includes Earth observation scientists, data scientists, field scientists, and agronomists.  
 
-Previously, I led the Data Science and Machine Learning team at Corteva Agriscience (formerly Dow-DuPont Agriculture) in Hyderabad. My experience also includes roles as a Data Analytic Scientist at Shell Technology Center Bangalore and as a Researcher and Technical Manager at Samsung Advanced Institute of Technology (SAIT).  
+I also led the Data Science and Machine Learning team at Corteva Agriscience (formerly Dow-DuPont Agriculture) in Hyderabad. My experience also includes roles as a Data Analytic Scientist at Shell Technology Center Bangalore and as a Researcher and Technical Manager at Samsung Advanced Institute of Technology (SAIT).  
 
-I currently serve as an adjunct faculty member at [AMMACHI Labs](https://ammachilabs.org) at [Amrita Vishwa Vidyapeetham](https://www.amrita.edu), where I advise and mentor Master's and Ph.D. students. I am part of the apex committee responsible for setting up the AI Centers of Excellence in India and part of the committee member of the AWS-Harvard Data Science Initiative. This semester (Spring 2025), I am also conducting lectures and tutorials at IIT Ropar for the students who are enrolled in the AI minor program. Additionally, I am a Senior Member of the Institute of Electrical and Electronics Engineers (IEEE).  
+I currently serve as an adjunct faculty member at [AMMACHI Labs](https://ammachilabs.org) at [Amrita Vishwa Vidyapeetham](https://www.amrita.edu), where I advise and mentor Master's and Ph.D. students. I am part of the apex committee responsible for setting up the [four AI Centers of Excellence in India](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2064990&reg=3&lang=2) and part of the committee member of the [AWS Impact Computing Project with the Harvard Data Science Initiative (HDSI)][https://datascience.harvard.edu/programs/aws-impact-computing-project-at-the-hdsi/]. Additionally, I am a Senior Member of the Institute of Electrical and Electronics Engineers (IEEE).  
 
-My academic background includes a Ph.D. in Control, Signal, and Image Processing from Ariana, a joint research team of INRIA, CNRS, and UNS INRIA; a Master's in Electrical Engineering from Texas A&M University; and a Bachelor's degree in Electrical Engineering from the Indian Institute of Technology (IIT) Roorkee. I was also a contractual researcher during my postdoctoral years at the Pasteur Institute in Paris.  
+My academic background includes a Ph.D. in Computer Vision, Control, Signal, and Image Processing from Ariana, a joint research team of [INRIA][https://www.inria.fr/en], CNRS, and UNS INRIA; a Master's in [Electrical Engineering from Texas A&M University, College Station][https://engineering.tamu.edu/electrical/index.html]; and a Bachelor's degree in Electrical Engineering from the [Indian Institute of Technology (IIT) Roorkee][https://www.iitr.ac.in]. I was also a contractual researcher during my postdoctoral years at the [Pasteur Institute][https://icy.bioimageanalysis.org] in Paris.  
 
 Beyond my professional work, I am passionate about biodiversity and practice natural and organic farming at my own farm. I am also a certified Heartfulness Meditation trainer.  
 
@@ -34,33 +34,18 @@ Here are some of my notable projects across AI, remote sensing, materials scienc
 - **[AI4Materials](https://github.com/praveenpankaj/AI4Materials)**: Machine learning-driven approaches for materials discovery and characterization.  
 
 ### 🛰 **Remote Sensing & Hyperspectral Imaging**  
-- **[Satellite Imaging and ML Tutorial](https://github.com/praveenpankaj/Satellite-Imaging-ML-Tutorial)**: A comprehensive guide to satellite imaging and ML techniques.  
+- **[Satellite Imaging and ML Tutorial](https://github.com/praveenpankaj/Satellite-Imaging-ML-Tutorial)**: A comprehensive guide to satellite imaging and ML techniques in hyperspectral space.  
 - **[Spatial-Spectral Classifier for HSI](https://github.com/praveenpankaj/Spatial-Spectral-Classifier-HSI)**: Classifier for hyperspectral imaging data.  
 - **[AR-STAR](https://github.com/praveenpankaj/AR-STAR)**: Advanced remote sensing techniques for agricultural monitoring.  
 
 ### 🧠 **Signal Processing & Estimation**  
 - **[Kalman Filter for Phase Estimation](https://github.com/praveenpankaj/Kalman-Filter-Phase-Estimation)**: Implementation of Kalman filtering for phase estimation in signal processing.  
 
-### 📝 **Linguistics & AI**  
-- **[Aksara](https://github.com/praveenpankaj/aksara)**: AI and computational linguistics for script recognition and processing.  
+### 📝 **LLM, AI & Agriculture**  
+- **[Aksara](https://github.com/praveenpankaj/aksara)**: Small Language Model for Climate Smart Advisory for farmers across five countries and for nine crops.  
 
 ## Collaboration  
 
 I am always open to collaborations in AI, remote sensing, agriculture, and materials science. If you are a student, educator, or researcher interested in contributing, collaborating, teaching, or learning, feel free to reach out to me through [LinkedIn](https://linkedin.com/in/praveenpankaj). Let's work together to advance sustainable agriculture and technology.  
 
 
-
-<!--
-**praveenpankaj/praveenpankaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
